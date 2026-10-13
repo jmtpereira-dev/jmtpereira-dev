@@ -1,85 +1,69 @@
-<div align="center">
+# Hi, I'm José Manuel Tavares Pereira 👋 / Hallo, ich bin José Manuel Tavares Pereira 👋
 
-# José Manuel Tavares Pereira
-### **IT Professional & Industrial Automation Specialist**
-_Bridging Industrial Operations, BPO Systems, and Predictive Data Intelligence_
+> **IT Professional & Industrial Automation Specialist**
+> _Bridging Industrial Operations, BPO Systems, and Predictive Data Intelligence_
 
-<!-- Linha de Contactos Executiva -->
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](#-how-to-reach-me)
-[![Languages](https://shields.io_|_DE_|_EN-333333?style=for-the-badge&logo=translate&logoColor=white)](#-how-to-reach-me)
-
----
-</div>
-
-## 🌐 Executive Summary
-
-Welcome to my professional space. I am an **IT Professional and Machine Operator** combining a solid 4-year academic foundation in Information Technology with **over 6 years of hands-on technical experience** within high-speed industrial BPO environments. 
-
-Currently specializing in **Python and Machine Learning (AI Engineering)**, my goal is to develop intelligent orchestration layers that optimize physical automation, implement predictive maintenance, and guarantee strict operational compliance.
+*🌍 [Deutsch unten](#deutsch)*
 
 ---
 
-## 🚀 Core Specializations & Industrial Focus
+## 🇬🇧 English
 
-*   **Industrial Automation & Compliance**
-    *   *System Expertise:* Direct execution as a Machine Operator at **SPS Switzerland AG**, running high-speed Kern 3500 & 3600 insertion environments.
-    *   *Governance:* Deep practical knowledge of factory-floor SLA target enforcement and **nDSG compliance** (Swiss Data Protection Act).
-*   **Predictive Intelligence (In Training)**
-    *   *OEE Protection:* Developing regression models and XGBoost structures designed to eliminate mechanical jams, predict material wear, and secure Overall Equipment Effectiveness.
-*   **Computer Vision & Edge Validation (In Training)**
-    *   *Quality Control:* Testing real-time edge processing algorithms for automated mail piece validation, tracking, and high-speed QR detection.
+Welcome to my GitHub profile! I am an **IT Professional and Machine Operator** combining a solid foundation in Information Technology with over 6 years of hands-on experience in industrial operations, BPO, and high-speed mail insertion systems. I am currently advancing my studies in Python and Machine Learning to bridge the gap between physical mechanical operations and data-driven intelligence.
 
----
+### 🚀 Professional Focus & Industrial Background
+*   **Industrial Automation:** Direct operational experience as a Machine Operator at SPS Switzerland AG, running high-speed Kern 3500 and 3600 systems. I understand strict SLA compliance and nDSG data protection from the factory floor.
+*   **Machine Learning (In Training):** Studying predictive maintenance (Regression models, XGBoost) to eliminate machine downtime and protect Overall Equipment Effectiveness (OEE).
+*   **Computer Vision (In Training):** Exploring real-time edge validation for quality control and high-speed QR Code processing.
 
-## 🛠️ Technology Stack & Tooling
+### 🎓 Academic Background & Experience
+- **BSc in Information Technology** - ISPGAYA (2001 - 2005) - Portugal
+- **IT & Database Instructor** - Taught Databases and Information Technology for 7 years. - Portugal
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages & Core** | ![Python](https://shields.io) ![SQL](https://shields.io) ![Linux](https://shields.io) |
-| **Data & AI/ML** | ![Scikit-Learn](https://shields.io) ![XGBoost](https://shields.io) ![OpenCV](https://shields.io) |
-| **Enterprise Standards** | BPO Workflows • SLA Monitoring • nDSG Compliance • Predictive Maintenance |
+### 🏆 Completed Certifications
+- **Google AI Essentials**
 
----
+### 📚 Currently Learning
+- **Python 3 Programming** (University of Michigan)
+- **IBM AI Engineering** (Coursera)
+- **Google Data Analytics**
 
-## 🏗️ Flagship Engineering Project
+### 🏗️ Featured Project
+#### 🏭 [OmniFlow AI](https://github.com)
+An End-to-End BPO Control Tower & Predictive Intelligence platform in development. The system integrates Computer Vision for SLA/nDSG validation, XGBoost models to predict mechanical jams on Kern systems, and a Logistics Digital Twin for dynamic production queue recalculation.
 
-### 🏭 [OmniFlow AI](https://github.com) 
-*An End-to-End BPO Control Tower & Predictive Industrial Intelligence Platform.*
-*   **The System:** A dynamic logistics architecture integrating a Digital Twin engine to calculate real-time production queue shifts.
-*   **Intelligence Layer:** Features embedded **XGBoost classification models** built to predict physical mechanical jams on high-speed hardware and **Computer Vision** pipelines for continuous SLA/nDSG validation.
-
----
-
-## 🎓 Credentials & Professional Track
-
-*   **BSc in Information Technology** — ISPGAYA *(Portugal, 2001 - 2005)*
-*   **IT & Database Systems Instructor** — *(7 Years Experience teaching Enterprise RDBMS)*
-*   **Certifications & Advanced Tracks:**
-    *   🎓 **Google AI Essentials** *(Completed)*
-    *   📚 *Advanced Specializations (In Progress):* Python 3 Programming (University of Michigan) • IBM AI Engineering (Coursera) • Google Data Analytics.
+### 📫 How to reach me
+- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **Languages:** Portuguese (Native), German (B1), English.
 
 ---
 
-## 🇩🇪 Zusammenfassung (Deutsch)
+<a name="deutsch"></a>
+## 🇩🇪 Deutsch
 
-Ich bin ein **IT-Experte und Maschinenführer**, der fundierte Informatik-Kenntnisse mit über 6 Jahren praktischer Erfahrung in industriellen BPO-Abläufen und Hochgeschwindigkeits-Kuvertiersystemen (**Kern 3500/3600 bei SPS Switzerland AG**) verbindet. 
+Willkommen auf meinem GitHub-Profil! Ich bin ein **IT-Experte und Maschinenführer**, der einen soliden Hintergrund in der Informatik mit über 6 Jahren praktischer Erfahrung in industriellen Betriebsabläufen, BPO und Hochgeschwindigkeits-Kuvertiersystemen verbindet. Derzeit vertiefe ich meine Kenntnisse in Python und Machine Learning, um die Lücke zwischen physischen, mechanischen Abläufen und datengesteuerter Intelligenz zu schließen.
 
-Mein Fokus liegt auf der Verknüpfung von physischer Automation und datengesteuerter Intelligenz. Durch den Einsatz von **Machine Learning (Predictive Maintenance via XGBoost)** und **Computer Vision** entwickle ich Lösungen zur Maximierung der Gesamtanlageneffektivität (OEE) unter strikter Einhaltung von SLAs und der Schweizer **nDSG-Datenschutzrichtlinien**.
+### 🚀 Berufsschwerpunkte & Industrieerfahrung
+*   **Industrieautomation:** Direkte Betriebserfahrung als Machine Operator bei der SPS Switzerland AG mit Hochgeschwindigkeits-Kuvertiersystemen (Kern 3500 und 3600). Ich kenne strikte SLA-Compliance und nDSG-Datenschutz direkt aus der Produktionshalle.
+*   **Machine Learning (In Ausbildung):** Studium der vorausschauenden Wartung (Predictive Maintenance, Regressionsmodelle, XGBoost) zur Eliminierung von Maschinenstillstandszeiten und zum Schutz der Gesamtanlageneffektivität (OEE).
+*   **Computer Vision (In Ausbildung):** Erforschung der Echtzeit-Validierung an der Edge zur Qualitätskontrolle und Hochgeschwindigkeits-QR-Code-Verarbeitung.
 
----
+### 🎓 Akademischer Hintergrund & Erfahrung
+- **Bachelor als Techniker Informatik** - ISPGAYA (2001 - 2005) - Portugal
+- **Kursleiter für IT & Datenbanken** - 7 Jahre Unterrichtserfahrung in Datenbanken und Informationstechnologie. - Portugal
 
-## 📫 How to Reach Me
+### 🏆 Abgeschlossene Zertifizierungen
+- **Google AI Essentials**
 
-*   **Professional Network:** [://linkedin.com](https://linkedin.com)
-*   **Linguistic Capabilities:** Portuguese (Native) • English (Professional) • German (B1 Threshold)
+### 📚 Aktuelle Weiterbildung
+- **Python 3 Programming** (University of Michigan)
+- **IBM AI Engineering** (Coursera)
+- **Google Data Analytics**
 
----
+### 🏗️ Ausgewähltes Projekt
+#### 🏭 [OmniFlow AI](https://github.com)
+Eine sich in der Entwicklung befindliche End-to-End BPO Control Tower & Predictive Intelligence Plattform. Das System integriert Computer Vision für SLA/nDSG-Validierung, XGBoost-Modelle zur Vorhersage mechanischer Staus an Kern-Anlagen und einen logistischen digitalen Zwilling (Digital Twin) für die dynamische Neuberechnung der Produktionswarteschlange.
 
-### 📊 System Performance Metrics
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
-
-
+### 📫 Kontakt
+- **LinkedIn:** [linkedin.com/in/josemtpereira](https://www.linkedin.com/in/josemtpereira/)
+- **Sprachen:** Portugiesisch (Muttersprache), Deutsch (B1), Englisch.
