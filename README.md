@@ -5,9 +5,9 @@
 _Bridging Industrial Operations, BPO Systems, and Predictive Data Intelligence_
 
 <!-- Linha de Contactos Executiva -->
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/josemtpereira/)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Email](https://shields.io)](#-how-to-reach-me)
-[![Languages](https://shields.io_|_DE_|_EN-333333?style=for-the-badge)](#-how-to-reach-me)
+[![Languages](https://shields.io_|_DE_|_EN-333333?style=for-the-badge&logo=translate&logoColor=white)](#-how-to-reach-me)
 
 ---
 </div>
@@ -71,7 +71,7 @@ Mein Fokus liegt auf der Verknüpfung von physischer Automation und datengesteue
 
 ## 📫 How to Reach Me
 
-*   **Professional Network:** [linkedin.com/in/josemtpereira](https://www.linkedin.com/in/josemtpereira/)
+*   **Professional Network:** [://linkedin.com](https://linkedin.com)
 *   **Linguistic Capabilities:** Portuguese (Native) • English (Professional) • German (B1 Threshold)
 
 ---
@@ -81,4 +81,5 @@ Mein Fokus liegt auf der Verknüpfung von physischer Automation und datengesteue
   <img src="https://vercel.app" alt="GitHub Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </p>
+
 
