@@ -20,20 +20,20 @@ Welcome to my GitHub profile! I am an **IT Professional and Machine Operator** c
 - **BSc in Information Technology** - ISPGAYA (2001 - 2005) - Portugal
 - **IT & Database Instructor** - Taught Databases and Information Technology for 7 years. - Portugal
 
-### 🏆 Completed Certifications
-- **Google AI Essentials**
-
-### 📚 Currently Learning
-- **Python 3 Programming** (University of Michigan)
-- **IBM AI Engineering** (Coursera)
-- **Google Data Analytics**
+### 🏆 Education & Professional Development
+*   **Completed Certifications**
+    - Google AI Essentials
+*   **Currently Learning / In Progress**
+    - Python 3 Programming (University of Michigan)
+    - IBM AI Engineering (Coursera)
+    - Google Data Analytics
 
 ### 🏗️ Featured Project
 #### 🏭 [OmniFlow AI](https://github.com)
 An End-to-End BPO Control Tower & Predictive Intelligence platform in development. The system integrates Computer Vision for SLA/nDSG validation, XGBoost models to predict mechanical jams on Kern systems, and a Logistics Digital Twin for dynamic production queue recalculation.
 
 ### 📫 How to reach me
-- **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+- **LinkedIn:** [linkedin.com/in/josemtpereira](https://www.linkedin.com/in/josemtpereira/)
 - **Languages:** Portuguese (Native), German (B1), English.
 
 ---
@@ -52,13 +52,13 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein **IT-Experte und Maschinenführ
 - **Bachelor als Techniker Informatik** - ISPGAYA (2001 - 2005) - Portugal
 - **Kursleiter für IT & Datenbanken** - 7 Jahre Unterrichtserfahrung in Datenbanken und Informationstechnologie. - Portugal
 
-### 🏆 Abgeschlossene Zertifizierungen
-- **Google AI Essentials**
-
-### 📚 Aktuelle Weiterbildung
-- **Python 3 Programming** (University of Michigan)
-- **IBM AI Engineering** (Coursera)
-- **Google Data Analytics**
+### 🏆 Ausbildung & Weiterbildung
+*   **Abgeschlossene Zertifizierungen**
+    - Google AI Essentials
+*   **Aktuelle Weiterbildung / In Ausbildung**
+    - Python 3 Programming (University of Michigan)
+    - IBM AI Engineering (Coursera)
+    - Google Data Analytics
 
 ### 🏗️ Ausgewähltes Projekt
 #### 🏭 [OmniFlow AI](https://github.com)
