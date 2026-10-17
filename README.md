@@ -1,4 +1,4 @@
-# José Manuel Tavares Pereira
+﻿# José Manuel Tavares Pereira
 ### B2B Software Architect & AI Engineer 🇨🇭
 
 **[EN]** Based in Aarburg, Switzerland. Bridging the gap between strict industrial engineering and high-end B2B Micro-SaaS solutions.  
