@@ -50,21 +50,13 @@ Creator and Lead Architect of **Flexio Systems**, an enterprise-grade transactio
 
 ---
 
-## Institutional Endeavors
 
-* 🏢 **Founder & Lead Architect:** [Flexio Systems](https://github.com/Flexio-Systems)
-* ⚙️ **Flagship Architecture:** `flexio-core` (Agnostic Transactional Engine)
-* 📦 **Production Suites:** 
-  * **Flexio Shift** (`pkg-ops-shift-scheduler`): 24/7 Workforce Rostering & ArG Compliance
-  * **Flexio Clock** (`pkg-ops-time-tracking`): Punch Reconciliation & Statutory Premiums
-  * **Flexio QR** (`pkg-fin-qrbill-ch`): Swiss Official QR-Billing & Audit Trail
 
 ---
 
 ## Connect & Professional Inquiries
 
 * **GitHub:** [github.com/jmtpereira-dev](https://github.com/jmtpereira-dev)
-* **Organization:** [github.com/Flexio-Systems](https://github.com/Flexio-Systems)
 * **Location:** Aarburg, Canton of Aargau, Switzerland
 
 ---
