@@ -1,66 +1,31 @@
-# José Manuel Tavares Pereira
+### 👋 Hello, I'm José Manuel Tavares Pereira
 
-> **Lead Software Systems Architect & Industrial Automation Specialist**  
-> *Swiss Architecture. Cognitive Precision.*  
-> Based in Switzerland 🇨🇭
-
-[![GitHub Organization](https://img.shields.io/badge/Organization-Flexio--Systems-blue.svg)](https://github.com/Flexio-Systems)
-[![Specialization](https://img.shields.io/badge/Specialization-Deterministic%20Systems-009688.svg)]()
-[![Compliance](https://img.shields.io/badge/Domain-Swiss%20ArG%20%26%20ISO%2020022-brightgreen.svg)]()
-[![Code Standard](https://img.shields.io/badge/Standard-Zero--Defect%20%7C%20PEP--544-orange.svg)]()
-
----
-
-## Executive Engineering Profile
-
-Software Systems Architect and Industrial Operations Specialist with cross-disciplinary expertise spanning high-cadence industrial automation, deterministic transactional backend engineering, and statutory Swiss regulatory compliance.
-
-Creator and Lead Architect of **Flexio Systems**, an enterprise-grade transactional engine and modular SaaS architecture engineered under the **Steel Frontier Architecture** standard. Combines hands-on floor mastery of complex high-throughput industrial machinery with advanced architectural patterns in Python, PostgreSQL (session-level Row-Level Security), cryptographic ledger validation, and sandboxed cognitive coprocessors.
-
----
-
-## Core Competencies & Architecture Focus
-
-* **Deterministic Architecture:** Strict decoupling of domain-agnostic transactional cores from modular edge business adapters using typed canonical contracts (PEP-544).
-* **Industrial & Workforce Compliance:** Algorithmic shift scheduling, statutory time tracking, and premium settlement strictly aligned with Swiss Federal Labor Law (*Arbeitsgesetz - ArG*).
-* **Cryptographic Immutability:** Tamper-evident ledger chaining using SHA-256 state anchoring for statutory forensic auditing and compliance verification.
-* **Financial Data Engineering:** Deep integration with Swiss financial standards, automated QR-Bill generation, and ISO 20022 banking reconciliation (`camt.053` / `pain.001`).
-* **Cognitive Sandboxing:** Controlled integration of LLMs/ML models as read-only evaluators governed by strict Pydantic V2 schemas—eliminating hallucinations and state mutations.
-
----
-
-## Technical Stack & Tooling
-
-* **Backend & Systems:** Python 3.11+ (Strict typing, PEP-544 protocols), FastAPI, SQLAlchemy 2.0, Pydantic V2.
-* **Data & Persistence:** PostgreSQL 16 (Session RLS, Multi-Tenancy, JSONB), Redis, In-Memory Stream Buffers.
-* **Architecture & Standards:** Clean Hexagonal Architecture, Transactional Outbox Pattern, Dead Letter Queues (DLQ), Cryptographic Chaining (SHA-256).
-* **Industrial Operations:** High-speed inserter and finishing lines (Kern 1600, 3500, 3600), operational telemetry, cadence diagnostics, and downtime mitigation.
-* **DevOps & Integrity:** Docker multi-stage builds, Linux/WSL2, Automated Pytest suites under strict `-W error` (Zero-Defect policy).
-
----
-
-## Verified Professional Credentials & Education
-
-* **Google Data Analytics Professional** — Google (Credential Verification: 2026)
-* **Google AI Essentials** — Google
-* **Object-Oriented Programming & Inheritance Specialization** — University of Michigan
-* **Machine Learning Specialization** — IBM
-* **AI Engineering Professional** — IBM
-* **German Language Proficiency** — B1 Level Certified (Switzerland)
-
----
-
-
-
----
-
-## Connect & Professional Inquiries
-
-* **GitHub:** [github.com/jmtpereira-dev](https://github.com/jmtpereira-dev)
-* **Location:** Aarburg, Canton of Aargau, Switzerland
-
----
-
-<p align="center">
-  <sub>© 2026 José Manuel Tavares Pereira. Flexio Systems is proprietary intellectual property. All rights reserved.</sub>
+<p align="left">
+  <em>Software Architect & Systems Engineer — Designing Resilient, Secure, and Sovereign Backend Infrastructure.</em>
 </p>
+
+---
+
+### 🏛️ Engineering Philosophy & Standards
+* **Architectural Rigor:** Uncompromising focus on determinism, mission-critical data integrity, and strict regulatory compliance (**nDSG / GDPR**).
+* **Defensive Engineering:** Clean, decoupled architectures engineered to withstand systemic failures, continuous forensic auditing, and absolute multi-tenant isolation.
+* **Invisible Engineering:** Absolute priority given to the robustness of underlying transactional engines, I/O optimization, and security-by-design.
+
+---
+
+### 🛠️ Core Technology Stack & Expertise
+* **Languages & Core:** Python 3.11+, FastAPI, Asynchronous Ecosystems, Pydantic.
+* **Persistence & Data Integrity:** Relational Databases (PostgreSQL 16+ with Row-Level Security), Immutable Audit Ledgers, Transactional Outbox Patterns.
+* **Infrastructure & Security:** Containerized Ecosystems (Docker / Docker Compose), CI/CD Automation, Zero-Trust Architecture, Local & Sovereign Cloud Environments.
+
+---
+
+### ⚖️ Intellectual Property & R&D Governance
+* **Proprietary Innovation:** Active and exclusive development of highly defensible backend architectures, transactional engines, and mission-critical modular ecosystems.
+* **Legal Posture:** Uncompromising defense of Intellectual Property, strict compliance with international Copyright principles, and rigorous safeguarding of Trade Secrets.
+
+---
+
+### 🌐 Connect & Professional Profile
+* **Base of Operations:** Aarburg, Canton of Aargau, Switzerland 🇨🇭
+* **GitHub (Private Repositories):** Active development focused on high-defensibility private infrastructures and proprietary ecosystems.
